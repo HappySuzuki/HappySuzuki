@@ -1,74 +1,58 @@
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Creative & Sensitive Full-Stack Developer<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
-
-Nice to meet you!
-
+ <a href="https://github.com/GruDev325/GruDev325/"> </a>
 <br/>
-I'm a ⭐️passionate and 🚀adventurous full-stack developer having vast experience with blockchain industry.
-I can work on various blockchain platforms like Ethereum, Binance Smart Chain, Solana, Polygon, Juno, etc.
 
-<h1 align="center">
-  <a href="/">
-    <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=flat&logo=bitcoin&logoColor=white" />
-  </a>
-    <a href="/">
-    <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-303030?style=flat&logo=ethereum&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Binance" src="https://img.shields.io/badge/Binance-ffd050?style=flat&logo=binance&logoColor=black" />
-  </a>
-  <a href="/">
-    <img alt="Solana" src="https://img.shields.io/badge/Solana-c551dd?style=flat&logo=WhenIwork&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Polygon" src="https://img.shields.io/badge/Polygon-f12424?style=flat&logo=webcomponents.org&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="DeFi" src="https://img.shields.io/badge/DeFi-137CBD?style=flat&logo=Blueprint&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Dapp" src="https://img.shields.io/badge/DApp-fb8160?style=flat&logo=CashApp&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="NFT" src="https://img.shields.io/badge/NFT-00560e?style=flat&logo=WolframLanguage&logoColor=white" />
-  </a>
-  <br/>
-  <a href="/">
-    <img alt="React.js" src="https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-239120?style=flat&logo=javascript&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  </a>
-  <a href="/">  
-    <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-  </a>
-  <a href="/">
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white" />
-  </a>
-  <a href="/">  
-    <img alt="Github" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
-  </a>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=1AF761&lines=Full-Stack+(Backend-Heavy);Python/PHP+%7C%7C+React+%7C%7C+Vue+%7C%7C+Typescript+%7C%7C+Web3+%7C%7C+Node;Learning+New+Things+Everyday;Never+Stop+Learning!&center=true&width=800&height=45" alt="futuresea-dev">
+</p>
+<hr/>
 
-<p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=BlockchainCrazy95&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
-</p> 
+<img align="right" alt="GIF" src="https://github.com/GruDev325/GruDev325/blob/main/image/grudev325.gif" width="450" height="270" />
 
-### **Interest:**
-- Blockchain Ecosystem & Platforms (Ethereum/BSC/Solana/Polygon)
-- Smart Contract Development / Testing / Auditing (ERC20, ERC721, ERC1155, BEP20, BEP721, BEP1155)
-- DeFi & Dapps (Uniswap, PancakeSwap, NFT minting site, NFT marketplace - Metaplex, Wallet)
-- Web3.js / Ether.js
-- Truffle / Hardhat / Cargo
-- Front-End develpment (React.js / Vue.js / React-Native)
-<!--
-### **Connect with me:**
-<div><img width="18px" height="18px" style="vertical-align:middle;" src="skype.svg" alt="Skype:"/> &nbsp; <span style="font-size:16px; line-height: 24px;vertical-align:top; ">live:.cid.fb566509d1a1ed0e</span></div>
+![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-PHP-informational?style=flat&logo=php&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Ruby_On_Rails-informational?style=flat&logo=ruby&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Framework-Electron-informational?style=flat&logo=electron&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Language-Go-informational?style=flat&logo=go&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/CI/CD-Circle_CI-informational?style=flat&logo=circleci&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
 
-<div><img width="18px" height="18px" style="vertical-align:middle;" src="telegram.png" alt="Telegram:"/> &nbsp; <span style="font-size:16px; line-height: 24px;vertical-align:top; ">@blockchaincrazy95</span></div>
--->
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=futuresea-dev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=futuresea-dev&theme=tokyonight_duo&hide_border=true" alt="futuresea-dev" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+## ⚡ Recent GitHub Activity
+<br/>
+ <img alt="FutureSea-dev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=futuresea-dev&custom_title=FutureSea-Dev's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" />
+<br/>
+
+## 📊 Github Stats
+
+<img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
